@@ -1,0 +1,16 @@
+C:\Users\student\Source\Repos\ServiceLog\WindowsLoggingService\WindowsLoggingService\bin\Debug\WindowsLoggingService.exe.config
+C:\Users\student\Source\Repos\ServiceLog\WindowsLoggingService\WindowsLoggingService\bin\Debug\WindowsLoggingService.exe
+C:\Users\student\Source\Repos\ServiceLog\WindowsLoggingService\WindowsLoggingService\bin\Debug\WindowsLoggingService.pdb
+C:\Users\student\Source\Repos\ServiceLog\WindowsLoggingService\WindowsLoggingService\obj\Debug\WindowsLoggingService.csprojResolveAssemblyReference.cache
+C:\Users\student\Source\Repos\ServiceLog\WindowsLoggingService\WindowsLoggingService\obj\Debug\WindowsLoggingService.exe
+C:\Users\student\Source\Repos\ServiceLog\WindowsLoggingService\WindowsLoggingService\obj\Debug\WindowsLoggingService.pdb
+C:\Users\student\Source\Repos\ServiceLog\WindowsLoggingService\WindowsLoggingService\obj\Debug\WindowsLoggingService.ProjectInstaller.resources
+C:\Users\student\Source\Repos\ServiceLog\WindowsLoggingService\WindowsLoggingService\obj\Debug\WindowsLoggingService.csproj.GenerateResource.Cache
+C:\Users\DomagojBodo\Documents\Visual Studio 2015\Projects\WindowsLoggingService\WindowsLoggingService\bin\Debug\WindowsLoggingService.exe.config
+C:\Users\DomagojBodo\Documents\Visual Studio 2015\Projects\WindowsLoggingService\WindowsLoggingService\obj\Debug\WindowsLoggingService.exe
+C:\Users\DomagojBodo\Documents\Visual Studio 2015\Projects\WindowsLoggingService\WindowsLoggingService\obj\Debug\WindowsLoggingService.pdb
+C:\Users\DomagojBodo\Documents\Visual Studio 2015\Projects\WindowsLoggingService\WindowsLoggingService\bin\Debug\WindowsLoggingService.exe
+C:\Users\DomagojBodo\Documents\Visual Studio 2015\Projects\WindowsLoggingService\WindowsLoggingService\bin\Debug\WindowsLoggingService.pdb
+C:\Users\DomagojBodo\Documents\Visual Studio 2015\Projects\WindowsLoggingService\WindowsLoggingService\obj\Debug\WindowsLoggingService.csprojResolveAssemblyReference.cache
+C:\Users\DomagojBodo\Documents\Visual Studio 2015\Projects\WindowsLoggingService\WindowsLoggingService\obj\Debug\WindowsLoggingService.ProjectInstaller.resources
+C:\Users\DomagojBodo\Documents\Visual Studio 2015\Projects\WindowsLoggingService\WindowsLoggingService\obj\Debug\WindowsLoggingService.csproj.GenerateResource.Cache
