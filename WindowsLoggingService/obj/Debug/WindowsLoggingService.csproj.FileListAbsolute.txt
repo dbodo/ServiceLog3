@@ -14,3 +14,11 @@ C:\Users\DomagojBodo\Documents\Visual Studio 2015\Projects\WindowsLoggingService
 C:\Users\DomagojBodo\Documents\Visual Studio 2015\Projects\WindowsLoggingService\WindowsLoggingService\obj\Debug\WindowsLoggingService.csprojResolveAssemblyReference.cache
 C:\Users\DomagojBodo\Documents\Visual Studio 2015\Projects\WindowsLoggingService\WindowsLoggingService\obj\Debug\WindowsLoggingService.ProjectInstaller.resources
 C:\Users\DomagojBodo\Documents\Visual Studio 2015\Projects\WindowsLoggingService\WindowsLoggingService\obj\Debug\WindowsLoggingService.csproj.GenerateResource.Cache
+C:\Users\DomagojBodo\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\WindowsLoggingService.exe.config
+C:\Users\DomagojBodo\Source\Repos\ServiceLog3\WindowsLoggingService\obj\Debug\WindowsLoggingService.exe
+C:\Users\DomagojBodo\Source\Repos\ServiceLog3\WindowsLoggingService\obj\Debug\WindowsLoggingService.pdb
+C:\Users\DomagojBodo\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\WindowsLoggingService.exe
+C:\Users\DomagojBodo\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\WindowsLoggingService.pdb
+C:\Users\DomagojBodo\Source\Repos\ServiceLog3\WindowsLoggingService\obj\Debug\WindowsLoggingService.csprojResolveAssemblyReference.cache
+C:\Users\DomagojBodo\Source\Repos\ServiceLog3\WindowsLoggingService\obj\Debug\WindowsLoggingService.ProjectInstaller.resources
+C:\Users\DomagojBodo\Source\Repos\ServiceLog3\WindowsLoggingService\obj\Debug\WindowsLoggingService.csproj.GenerateResource.Cache
