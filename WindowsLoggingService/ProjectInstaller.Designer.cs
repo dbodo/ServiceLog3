@@ -42,18 +42,11 @@
             // serviceInstaller1
             // 
             this.serviceInstaller1.ServiceName = "ServiceLogTest";
-            this.serviceInstaller1.StartType = System.ServiceProcess.ServiceStartMode.Automatic;
-            // 
-            // serviceInstaller2
-            // 
-            this.serviceInstaller2.ServiceName = "Service1";
-            // 
             // ProjectInstaller
             // 
             this.Installers.AddRange(new System.Configuration.Install.Installer[] {
             this.serviceProcessInstaller1,
-            this.serviceInstaller1,
-            this.serviceInstaller2});
+            this.serviceInstaller1});
         }
 
         #endregion

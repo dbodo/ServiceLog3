@@ -1,0 +1,103 @@
+﻿Installing assembly 'c:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\WindowsLoggingService.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\WindowsLoggingService.InstallLog
+   assemblypath = c:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\WindowsLoggingService.exe
+   logtoconsole = 
+Installing service ServiceLogTest...
+Creating EventLog source ServiceLogTest in log Application...
+Rolling back assembly 'c:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\WindowsLoggingService.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\WindowsLoggingService.InstallLog
+   assemblypath = c:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\WindowsLoggingService.exe
+   logtoconsole = 
+Restoring event log to previous state for source ServiceLogTest.
+Uninstalling assembly 'c:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.InstallLog
+   assemblypath = c:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Removing EventLog source ServiceLogTest.
+Warning: The source ServiceLogTest is not registered on the local machine.
+Service ServiceLogTest is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'c:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.InstallLog
+   assemblypath = c:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe
+   logtoconsole = 
+Installing service ServiceLogTest...
+Creating EventLog source ServiceLogTest in log Application...
+Rolling back assembly 'c:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.InstallLog
+   assemblypath = c:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe
+   logtoconsole = 
+Restoring event log to previous state for source ServiceLogTest.
+Installing assembly 'C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.InstallLog
+   assemblypath = C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe
+   logtoconsole = 
+Installing service ServiceLogTest...
+Creating EventLog source ServiceLogTest in log Application...
+Rolling back assembly 'C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.InstallLog
+   assemblypath = C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe
+   logtoconsole = 
+Restoring event log to previous state for source ServiceLogTest.
+Installing assembly 'C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.InstallLog
+   assemblypath = C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe
+   logtoconsole = 
+Installing service ServiceLogTest...
+Creating EventLog source ServiceLogTest in log Application...
+Rolling back assembly 'C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.InstallLog
+   assemblypath = C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe
+   logtoconsole = 
+Restoring event log to previous state for source ServiceLogTest.
+Uninstalling assembly 'C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.InstallLog
+   assemblypath = C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe
+Removing EventLog source ServiceLogTest.
+Warning: The source ServiceLogTest is not registered on the local machine.
+Service ServiceLogTest is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.InstallLog
+   assemblypath = C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe
+   logtoconsole = 
+Installing service ServiceLogTest...
+Creating EventLog source ServiceLogTest in log Application...
+Rolling back assembly 'C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.InstallLog
+   assemblypath = C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\windowsloggingservice.exe
+   logtoconsole = 
+Restoring event log to previous state for source ServiceLogTest.

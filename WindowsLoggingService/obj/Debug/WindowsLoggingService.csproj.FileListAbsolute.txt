@@ -22,3 +22,11 @@ C:\Users\DomagojBodo\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\Wi
 C:\Users\DomagojBodo\Source\Repos\ServiceLog3\WindowsLoggingService\obj\Debug\WindowsLoggingService.csprojResolveAssemblyReference.cache
 C:\Users\DomagojBodo\Source\Repos\ServiceLog3\WindowsLoggingService\obj\Debug\WindowsLoggingService.ProjectInstaller.resources
 C:\Users\DomagojBodo\Source\Repos\ServiceLog3\WindowsLoggingService\obj\Debug\WindowsLoggingService.csproj.GenerateResource.Cache
+C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\WindowsLoggingService.exe.config
+C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\obj\Debug\WindowsLoggingService.exe
+C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\obj\Debug\WindowsLoggingService.pdb
+C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\WindowsLoggingService.exe
+C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\bin\Debug\WindowsLoggingService.pdb
+C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\obj\Debug\WindowsLoggingService.csprojResolveAssemblyReference.cache
+C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\obj\Debug\WindowsLoggingService.ProjectInstaller.resources
+C:\Users\student\Source\Repos\ServiceLog3\WindowsLoggingService\obj\Debug\WindowsLoggingService.csproj.GenerateResource.Cache
